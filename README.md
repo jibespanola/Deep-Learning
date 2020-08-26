@@ -1,3 +1,3 @@
 # Deep-Learning
-Deep learning practice notebooks and projects 
-Using Fastai and Swift TensorFlow
+Deep Learning practice notebooks and projects using Fastai and Swift Tensorflow
+
